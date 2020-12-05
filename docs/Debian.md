@@ -59,7 +59,7 @@ All the information needed for each system is detailed in this wiki. See the wik
 
 ## Configure RetroPie
 
-EmulationStation can be run from the terminal by typing `emulationstation` in the terminal.
+EmulationStation can be run from the terminal by typing `emulationstation` in the terminal. You can alsorun EmulationStation from the apps menu if you like.
 
 You can go into Setup / Configuration and enable autostart as you like.
 
